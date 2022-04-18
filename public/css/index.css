@@ -1,0 +1,62 @@
+
+a {
+  font-weight: bold;
+}
+
+.d-block {
+    width: 90% !important;
+    margin-left: 60px;
+}
+
+.intro {
+  height: 300px;
+  background-image: url(http://www.bluewaveshotel.gr/wp-content/themes/cdbthm/includes/cdb_theme_options/textures/green-fibers.png);
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.titre {
+  
+  font-family: 'AC Geosans Light', sans-serif;  
+  text-align: center;
+  font-size: 40px;
+  padding: 2%;
+  font-weight: 300;
+  color: grey;
+  letter-spacing: 5px;
+}
+
+.parg {
+  text-align:center;
+  width: 80%;
+  margin:auto;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.cards {
+  display: flex;
+  margin-left: 200px;
+}
+
+.card {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.footer {
+  height: 300px;
+  margin-top: 50px;
+  background-image: url(http://www.bluewaveshotel.gr/wp-content/themes/cdbthm/includes/cdb_theme_options/textures/green-fibers.png);
+  text-align: center;
+  padding:20px;
+}
+
+.footer p{
+  margin-top: 100px;
+}
